@@ -1,3 +1,4 @@
+//program is teaching
 #include <stdio.h>
 
 int main()
